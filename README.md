@@ -7,13 +7,13 @@ Developed an interactive **Excel Dashboard** by transforming raw CSV data into s
 ## 🎥 Dashboard Demo & Preview
 
 <div align="center">
-    <h3>Watch the Live Demo</h3>
-    [![Auto Spare Parts Sales Dashboard Demo](http://img.youtube.com/vi/nwXV9e6B_Pw/0.jpg)](https://www.youtube.com/watch?v=nwXV9e6B_Pw) 
-    
-    <br>
-    
-    <h3>Dashboard Screenshot</h3>
-    <img src="https://drive.google.com/uc?export=view&id=1XVQo0htbJZYP5XKvNNBl6YfPoKbqm7HO" alt="Sales Dashboard Screenshot" width="800"/>
+    ### Watch the Live Demo
+[![Auto Spare Parts Sales Dashboard Demo](http://img.youtube.com/vi/nwXV9e6B_Pw/0.jpg)](https://www.youtube.com/watch?v=nwXV9e6B_Pw)
+
+<br>
+
+### Dashboard Screenshot
+<img src="https://drive.google.com/uc?export=view&id=1XVQo0htbJZYP5XKvNNBl6YfPoKbqm7HO" alt="Sales Dashboard Screenshot" width="800"/>
 </div>
 
 ---
