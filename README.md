@@ -4,6 +4,20 @@
 Developed an interactive **Excel Dashboard** by transforming raw CSV data into structured, actionable insights. The project allows tracking product performance, analyzing sales quantities by governorates, and performing year-over-year comparisons.
 
 ---
+## 🎥 Dashboard Demo & Preview
+
+<div align="center">
+    <h3>Watch the Live Demo</h3>
+    [![Auto Spare Parts Sales Dashboard Demo](http://img.youtube.com/vi/nwXV9e6B_Pw/0.jpg)](https://www.youtube.com/watch?v=nwXV9e6B_Pw) 
+    
+    <br>
+    
+    <h3>Dashboard Screenshot</h3>
+    <img src="https://drive.google.com/uc?export=view&id=1XVQo0htbJZYP5XKvNNBl6YfPoKbqm7HO" alt="Sales Dashboard Screenshot" width="800"/>
+</div>
+
+---
+---
 
 ## 🛠️ Tools & Technologies Used
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -12,19 +26,18 @@ Developed an interactive **Excel Dashboard** by transforming raw CSV data into s
 
 
 ---
+### 🔑 Key Contributions:
 
-### Key Contributions:
-
--   **Data Preparation & ETL**: Imported raw data from CSV files, applied **Power Query** for detailed transformations, adjusted data types (e.g., profit margin), and performed robust data cleaning for accuracy.
--   **Data Analysis & Modeling**: Built **Pivot Tables** and applied advanced Excel functions (e.g., DAX/Calculated Fields) to uncover key sales patterns and KPIs.
--   **Data Visualization**: Designed a final **interactive dashboard** with charts and dynamic visuals, utilizing Slicers and Timelines to present key business insights.
+-   **Data Preparation & ETL** 🧺: Imported raw data from CSV files, applied **Power Query** for detailed transformations, adjusted data types (e.g., profit margin), and performed robust data cleaning for accuracy.
+-   **Data Analysis & Modeling** 🧠: Built **Pivot Tables** and applied advanced Excel functions (e.g., DAX/Calculated Fields) to uncover key sales patterns and **KPIs**.
+-   **Data Visualization** 🎨: Designed a final **interactive dashboard** with charts and dynamic visuals, utilizing Slicers and Timelines to present key business insights.
 
 ---
 
-### Outcomes & Business Value:
+### ✨ Outcomes & Business Value:
 
--   **Trend Discovery**: Discovered periods of market slowdowns and high-demand seasons through a 3-year trend analysis.
--   **Performance Visibility**: Delivered clear visibility into regional and product-level sales performance.
--   **Strategic Decision Support**: Enabled management to make more informed, data-driven strategic decisions, helping the company reduce risks and optimize strategies.
+-   **Trend Discovery** 📈: Discovered periods of market slowdowns and high-demand seasons through a 3-year trend analysis.
+-   **Performance Visibility** 🔎: Delivered clear visibility into regional and product-level sales performance.
+-   **Strategic Decision Support** 💡: Enabled management to make more informed, data-driven strategic decisions, helping the company reduce risks and optimize strategies.
 
 ---
