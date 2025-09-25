@@ -1,6 +1,6 @@
-# 🚗 Al-Saeed Auto Spare Parts – Sales Dashboard
+## 🚗 Al-Saeed Auto Spare Parts – Sales Dashboard
 
-## 📌 Project Overview
+### 📌 Project Overview
 Developed an interactive **Excel Dashboard** by transforming raw CSV data into structured, actionable insights. The project allows tracking product performance, analyzing sales quantities by governorates, and performing year-over-year comparisons.
 
 ---
@@ -10,20 +10,6 @@ Developed an interactive **Excel Dashboard** by transforming raw CSV data into s
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-3498DB?style=for-the-badge&logo=tableau&logoColor=white)
 
----
-
-## 📊 Dashboard Demo & Preview
-
-<div align="center">
-    ### Watch the Live Demo
-    [![Watch the Demo](https://drive.google.com/file/d/10wgJ26KnrxmFM1P-Nhp3UyGAEZhmykBY/view?usp=sharing)]
-    (https://youtu.be/nwXV9e6B_Pw?si=11FRa2V6olNBh2xr) 
-    
-    *Replace YOUR_VIDEO_ID with the actual YouTube video ID.*
-    
-    ### Dashboard Screenshot
-    <img src="https://drive.google.com/file/d/1XVQo0htbJZYP5XKvNNBl6YfPoKbqm7HO/view?usp=sharing" width="800"/>
-</div>
 
 ---
 
