@@ -43,3 +43,20 @@ Developed an interactive **Excel Dashboard** by transforming raw CSV data into s
 -   **Strategic Decision Support** 💡: Enabled management to make more informed, data-driven strategic decisions, helping the company reduce risks and optimize strategies.
 
 ---
+## 🤝 Let's Connect
+
+<div align="center">
+
+### 📧 Get in Touch
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.abdulrahman.ali.shaban@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdulrahman-ali-shaban-981349297)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201061345557)
+
+### 🔗 Social & Professional Links
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ENG_A_A_SHABAN)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eng_abdulrahman_ali_shaban/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdulrahman.ali.shaban/?locale=ar_AR)
+</div>
+
+
+![Project Views](https://komarev.com/ghpvc/?username=ENG0Abdulrahman0Ali&color=blueviolet&style=for-the-badge)
