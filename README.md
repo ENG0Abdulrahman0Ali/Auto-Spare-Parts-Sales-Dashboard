@@ -59,4 +59,4 @@ Developed an interactive **Excel Dashboard** by transforming raw CSV data into s
 </div>
 
 
-![Project Views](https://komarev.com/ghpvc/?username=ENG0Abdulrahman0Ali&color=blueviolet&style=for-the-badge)
+![Project Views](https://komarev.com/ghpvc/?username=ENG0Abdulrahman0Ali&repo=Auto-Spare-Parts-Sales-Dashboard&color=blueviolet&style=for-the-badge)
