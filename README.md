@@ -59,4 +59,4 @@ Developed an interactive **Excel Dashboard** by transforming raw CSV data into s
 </div>
 
 
-![Project Views](https://api.visitorbadge.io/api/visitors?path=github.com%2FENG0Abdulrahman0Ali%2FAuto-Spare-Parts-Sales-Dashboard&style=flat&color=blueviolet)
+![Project Views](https://api.visitorbadge.io/api/visitors?path=github.com%2FENG0Abdulrahman0Ali%2FAuto-Spare-Parts-Sales-Dashboard&style=flat&color=blueviolet&label=Project%20Views)
